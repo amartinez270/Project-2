@@ -1,7 +1,7 @@
 body{
 	background-color: #256D85;
 	font-family: 'Ubuntu', sans-serif;
-	font-size: 1.5em;
+	font-size: 1em;
 	}
 
 header {
@@ -54,7 +54,7 @@ h4 {
 
 h2{
 	background-color: #FB9722;
-    font-size: 9em;
+    font-size: 1em;
     border-top-left-radius: 1px;
     border-top-right-radius: 1px;
     border-bottom-right-radius: 1px;

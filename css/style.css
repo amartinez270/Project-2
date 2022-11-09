@@ -38,7 +38,7 @@ header {
 
 #navbar-container {
   width: 100%;
-  position: absolute;
+  position: relative;
   text-align: center;
 }
 
@@ -57,12 +57,12 @@ h4 {
 h2{
 	background-color: #6E7373;
     font-size: 1.0em;
-	text-align: center
-	padding: 5px;
+	text-align: center;
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
     border-bottom-left-radius: 0px;
+	padding: 5px;
 }
 
 h3 {
